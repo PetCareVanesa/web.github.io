@@ -1,0 +1,195 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px ;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 8px 8px;
+}
+.logo img{
+    height: 200px;
+    margin-right: 0px;
+    
+}
+nav a{
+     padding-right: 50px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 18px;
+     text-align: justify;
+}
+nav a:hover{
+    color: #ef9701;
+}
+.b4{
+    width: 100%;
+    
+}
+.pc{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    margin: 140px;
+    text-align: left;
+    margin-top:-26%;
+    
+}
+
+.gyp{
+    width: 47%;
+    margin-top: 18%;
+    padding-left: 35px ;
+}
+.gyp:hover, .gyp:focus, .gyp:active{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.divh{
+    
+    font-family: "Donkin";
+    font-size: 30px;
+    color:#ef9701;
+    display:inline-block;
+    margin: 5% 10% ;
+    text-align: right;
+    
+    }
+    .cajac{
+        font-family: "Donkin";
+    font-size: 30px;
+    color:#ef9701;
+    display:inline-block;
+    margin: 5% 20% ;
+    text-align:center;
+    }
+
+    
+h2{
+    text-align: right;
+    font-family: "Donkin";
+    font-size: 22px;
+    color: #6b3c9c;
+    text-align: center;
+
+}
+p{
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+.divl{
+    font-family: "Donkin";
+    font-size: 25px;
+    color:#ef9701;
+    display:inline-block;
+    margin:  3px 10% ;
+    text-align: left;
+    margin-right: 140px;
+}
+
+.tl{
+    width: 80%;
+}
+
+.conejoh{
+    width: 50%;
+    margin-left: 50%;
+    margin-top: -18%;
+
+}
+.conejoh:hover, .conejoh:focus , .conejoh:active{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.caja3{
+    
+    display:inline-block;
+    text-align:center;
+}
+
+
+
+.form_input{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-height: 90hv;
+    width: 100%;
+    display:flex;
+    padding: .8em 0.7em;
+    
+  }
+  .form_container{
+    width: 100%;
+    display: grid;
+    gap: 1em;
+    grid-auto-columns: 100%;
+    
+  }
+  form{
+    background-color: #ef9701;
+    width: 33%;
+    max-width:360% ;
+    border-radius: 1em ;
+    padding: 2.5em 3em;
+    margin: auto;
+    text-align: center;
+  }
+  .form_title{
+    font-family: "Donkin";
+    text-align: center;
+    margin: bottom 0.4em;
+    font-size: 35px;
+    color: #ffffff;
+  }
+  .form_input_message{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    min-height: 90hv;
+    width: 99%;
+    padding: .9em 1em;
+    resize: none;
+    margin-bottom: .9em;
+
+    
+  }
+  .form_enviar{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+    background-color:#6b3c9c;
+    color: #ffffff;
+    border: none;
+    font-weight: 50% ;
+    padding: .7em 2em;
+    border-radius: .2em;
+    cursor: pointer;
+    
+  }
+  .form_enviar:hover, .form_enviar:focus, .form_enviar:active{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
+  .imagenperro{
+    margin-top: -50%;
+    margin-left: 40px;
+  }
+ 
+  .lfooter{
+    
+    text-align: center;
+    background-image: url(../img/Fondofooter.png);
+    width: 100%;
+
+}
+.logof:hover, .logof:focus, .logof:active{
+   
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }

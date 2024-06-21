@@ -1,0 +1,183 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px ;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 8px 8px;
+}
+.logo img{
+    height: 200px;
+    margin-right: 0px;
+    
+}
+nav a{
+     padding-right: 50px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 18px;
+     text-align: justify;
+}
+nav a:hover{
+    color: #ef9701;
+}
+h1{
+    z-index: unset;
+    font-family: "Donkin";
+    font-size: 70px;
+    text-align: center;
+    color: #6b3c9c;
+    margin-top: -800px;
+}
+.fequipo{
+    width: 100%;
+    
+}
+
+
+.intro{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+    text-align: center;
+    margin-top: 750px;
+}
+.nombre1{
+    font-family: "Donkin";
+    font-size: 25px;
+    color: #ef9701;
+}
+.nombre1:hover, .nombre1:focus, .nombre1:active{
+   
+   
+        -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+      
+}
+.one{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.doctores{
+    text-align: center;
+    margin: 35px;
+}
+.div1{
+    text-align: center;
+    margin-top: -610px;
+   margin-right: 38%;
+}
+
+    
+ 
+
+.div2{
+    text-align: center;
+    margin-top: -137px;
+   margin-right: 1%;
+}
+.nombre2{
+
+font-family: "Donkin";
+    font-size: 25px;
+    color: #ef9701;
+}
+.nombre2:hover, .nombre2:focus, .nombre2:active{
+    -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+      
+}
+.two{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.div3{
+    text-align: center;
+    margin-top: -135px;
+   margin-left: 38%;
+}
+.nombre3{
+    font-family: "Donkin";
+    font-size: 25px;
+    color: #ef9701;
+}
+.nombre3:hover, .nombre3:focus, .nombre3:active{
+    -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+      
+}
+.three{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.div4{
+    text-align: center;
+    margin-top: 400px;
+   margin-right: 25%;
+}
+.nombre4{
+    font-family: "Donkin";
+    font-size: 25px;
+    color: #ef9701;
+}
+.nombre4:hover, .nombre4:focus, .nombre4:active{
+    -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+      
+}
+.four{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+.div5{
+    text-align: center;
+   margin-left: 17%;
+   margin-top: -135px;
+}
+.nombre5{
+    font-family: "Donkin";
+    font-size: 25px;
+    color: #ef9701;
+}
+.nombre5:hover, .nombre5:focus, .nombre5:active{
+    -webkit-transform: scale(1.1);
+        transform: scale(1.1);
+      
+}
+.five{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+.divg{
+    width: 100%;
+   text-align: center;
+
+    
+}
+
+
+
+.lfooter{
+    text-align: center;
+    background-image: url(../img/Fondofooter.png);
+    width: 100%;
+}
+.logof:hover, .logof:focus, .logof:active{
+   
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }

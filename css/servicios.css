@@ -1,0 +1,354 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px ;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 8px 8px;
+}
+.logo img{
+    height: 200px;
+    margin-right: 0px;
+    
+}
+nav a{
+     padding-right: 50px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 18px;
+     text-align: justify;
+}
+nav a:hover{
+    color: #ef9701;
+}
+.banner2{
+    width: 100%;
+
+}
+.nservicios{
+    font-family: "Donkin";
+    font-size: 70px;
+    text-align: center;
+    color: #6b3c9c;
+    margin-top: -500px;
+    
+   
+}
+.pbanner{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+.grupo1{
+
+        display: block;
+        width: 150px;
+        height: 70px;
+        font-family: "Donkin";
+        font-size: 12px;
+        border-radius: 20px;
+        margin: 180px 220px;
+        padding: 15px 30px;
+        color:#ef9701 ;
+        border: 5px solid #6b3c9c;
+        top: 75%;
+        position: absolute;
+        text-align: center;
+        box-shadow: 5px 8px 12px black;
+       }
+.grupo1:hover, .grupo1:focus, .grupo1:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.baño{
+
+       margin: 220px 205px ;
+       padding: 1px 18px;
+       
+       
+}
+.grupo2{
+        display: block;
+        width: 150px;
+        height: 70px;
+        font-family: "Donkin";
+        font-size: 12px;
+        border-radius: 20px;
+        margin: 180px 520px ;
+        padding: 15px 30px;
+        color:#ef9701 ;
+        border: 5px solid #6b3c9c;
+        top: 75%;
+        position: absolute;
+        text-align: center;
+        box-shadow: 5px 8px 12px black;
+       }
+.grupo2:hover, .grupo2:focus, .grupo2:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.consultas{
+    margin: 200px -145px ;
+    padding: 15px 18px;
+}
+.grupo3{
+    display: block;
+        width: 150px;
+        height: 70px;
+        font-family: "Donkin";
+        font-size: 12px;
+        border-radius: 20px;
+        margin: 180px 820px ;
+        padding: 15px 30px;
+        color:#ef9701 ;
+        border: 5px solid #6b3c9c;
+        top: 75%;
+        position: absolute;
+        text-align: center;
+        box-shadow: 5px 8px 12px black;
+}
+.grupo3:hover, .grupo3:focus, .grupo3:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.vacunas{
+    margin: 200px 200px ;
+    padding: 15px 18px;
+}
+
+
+.grupo4{
+    display: block;
+        width: 150px;
+        height: 70px;
+        font-family: "Donkin";
+        font-size: 12px;
+        border-radius: 20px;
+        margin: 180px 1110px ;
+        padding: 15px 30px;
+        color:#ef9701 ;
+        border: 5px solid #6b3c9c;
+        top: 75%;
+        position: absolute;
+        text-align: center;
+        box-shadow: 5px 8px 12px black;
+}
+.grupo4:hover, .grupo4:focus, .grupo4:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.cirugias{
+    margin: 185px -120px ;
+
+    padding: 15px 18px;
+}
+
+.grupo5{
+    display: block;
+        width: 150px;
+        height: 70px;
+        font-family: "Donkin";
+        font-size: 12px;
+        border-radius: 20px;
+        margin: 180px 1400px ;
+        padding: 15px 30px;
+        color:#ef9701 ;
+        border: 5px solid #6b3c9c;
+        top: 75%;
+        position: absolute;
+        text-align: center;
+        box-shadow: 5px 8px 12px black;
+}
+.grupo5:hover, .grupo5:focus, .grupo5:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.urgencias{
+    margin: 185px 160px ;
+    padding: 15px 18px;
+}
+.baño-p{
+    width: 100%;
+    height: 70px;
+    background: #ef9701;
+    justify-content: center;
+    text-align: center;
+    font-family: "Donkin";
+    font-size: 30px;
+    color:#6b3c9c;
+    padding-top: 30px;
+}
+.baño-p:hover, .baño-p:focus, .baño-p:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p2{
+    text-align: right;
+    padding-right: 80px ;
+    margin: 80px  50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+}
+.p3{
+    text-align: right;
+    padding-right: 80px ;
+    margin: 80px  50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+}
+.img3{
+    width: 35%;
+    height: 35%;
+    margin-top: -450px;
+}
+.consulta{
+    width: 100%;
+    height: 70px;
+    background: #ef9701;
+    justify-content: center;
+    text-align: center;
+    font-family: "Donkin";
+    font-size: 30px;
+    color:#6b3c9c;
+    padding-top: 30px;
+    margin-top: -400px;
+} 
+.consulta:hover, .consulta:focus, .consulta:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+    margin-left: 70px  ;
+    padding: 70px ;
+}
+
+.img4{
+    width: 25%;
+    height: 25%;
+    margin-left: 1150px ;
+    margin-top: -380px;
+}
+
+.vacuna{
+    width: 100%;
+    height: 70px;
+    background: #ef9701;
+    justify-content: center;
+    text-align: center;
+    font-family: "Donkin";
+    font-size: 30px;
+    color:#6b3c9c;
+    padding-top: 30px;
+    margin-top: -100px;
+}
+.vacuna:hover, .vacuna:focus, .vacuna:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+    text-align: right;
+    padding-right: 80px ;
+    margin: 80px  50px;
+}
+.img5{
+    width: 30%;
+    height: 30%;
+    margin-top: -380px;
+    padding-left: 80px;
+}
+.cirugia{
+    width: 100%;
+    height: 70px;
+    background: #ef9701;
+    justify-content: center;
+    text-align: center;
+    font-family: "Donkin";
+    font-size: 30px;
+    color:#6b3c9c;
+    padding-top: 30px;
+    margin-top: -220px;
+}
+.cirugia:hover, .cirugia:focus, .cirugia:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p6{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+    margin-left: 70px  ;
+    padding: 70px ;
+}
+.img6{
+    width: 40%;
+    height: 40%;
+    margin-left: 1000px ;
+    margin-top: -360px;
+}
+.urgencia{
+    width: 100%;
+    height: 70px;
+    background: #ef9701;
+    justify-content: center;
+    text-align: center;
+    font-family: "Donkin";
+    font-size: 30px;
+    color:#6b3c9c;
+    padding-top: 30px;
+    margin-top: -40px;
+}
+.urgencia:hover, .urgencia:focus, .urgencia:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p7{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    color: black;
+    text-align: right;
+    padding-right: 80px ;
+    margin: 80px  50px;
+}
+.img7{
+    width: 50%;
+    height:50%;
+    margin-top: -290px;
+    padding-left: 20px;
+}
+.lfooter{
+    text-align: center;
+    background-image: url(../img/Fondofooter.png);
+    width: 100%;
+}
+.logof:hover, .logof:focus, .logof:active{
+   
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }

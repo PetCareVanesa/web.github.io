@@ -1,0 +1,174 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+header{
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px ;
+    
+}
+.logo{
+    display: flex;
+    align-items: center;
+    padding: 8px 8px;
+}
+.logo img{
+    height: 200px;
+    margin-right: 0px;
+    
+}
+nav a{
+     padding-right: 50px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 18px;
+     text-align: justify;
+}
+nav a:hover{
+    color: #ef9701;
+}
+.img1{
+    width: 100%;
+}
+
+.nservicios{
+    font-family: "Donkin";
+    text-align: center;
+    color: #ef9701;
+    font-size: 50px;
+    margin-top: -36%;
+
+}
+.consulta1{
+ display: block;
+ width: 150px;
+ height: 80px;
+ font-family: "Donkin";
+ font-size: 20px;
+ border-radius: 20px;
+ margin: 150px 500px;
+ padding: 15px 30px;
+ text-decoration: none;
+ color: white;
+ background-color: #6b3c9c;
+ top: 100%;
+ position: absolute;
+ text-align: center;
+ box-shadow: 5px 8px 12px black;
+}
+.consulta1:hover{
+    color: #ef9701;
+}
+.consulta1:hover, .consulta1:focus, .consulta1:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.vacunas1{
+display:block;
+ width: 150px;
+ height: 80px;
+ font-family: "Donkin";
+ font-size: 20px;
+ border-radius: 20px;
+ margin: 150px 800px;
+ padding: 15px 30px;
+ text-decoration: none;
+ color: white;
+ background-color: #6b3c9c;
+ top: 100%;
+ position: absolute;
+ text-align: center;
+ box-shadow: 5px 8px 12px black;
+
+}
+.vacunas1:hover{
+    color: #ef9701;
+}
+.vacunas1:hover, .vacunas1:focus, .vacunas1:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.cirugias1{
+    display:block;
+    width: 150px;
+    height: 80px;
+    font-family: "Donkin";
+    font-size: 20px;
+    border-radius: 20px;
+    margin: 150px 1100px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: white;
+    background-color: #6b3c9c;
+    top: 100%;
+    position: absolute;
+    text-align: center;
+    box-shadow: 5px 8px 12px black;
+}
+.cirugias1:hover{
+    color: #ef9701;
+}
+
+.cirugias1:hover,.cirugias1:focus, .cirugias1:active{
+    box-shadow: 5px 8px 12px black;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+@font-face {
+    font-family: "Donkin";
+    src: url('https://fonts.cdnfonts.com/css/dunkin');
+}
+.div1{
+    background-color: #6b3c9c;
+    width: 87%;
+    height: 300px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-top: 34%;
+    padding: 80px 120px;
+    justify-content: space-between;
+    text-align: right;
+}
+h1.somos{
+    font-family: "Donkin";
+    font-size: 70px;
+    color: #ef9701;
+    margin-right: 70px;
+}
+.somos:hover, .somos:focus, .somos:active{
+
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+.p1{
+    margin-right: 70px;
+}
+
+
+.img2{
+    width: 40%;
+    height: 40%;
+    position:absolute;
+    top: 184.7%;
+   left: 8px;
+  }
+  .fondo{
+    width: 100%;
+    
+  }
+  .footer1{
+    text-align: center;
+    background-image: url(../img/Fondofooter.png);
+  }
+  
+  .logof:hover, .logof:focus, .logof:active{
+   
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+  }
